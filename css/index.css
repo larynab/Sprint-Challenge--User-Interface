@@ -144,8 +144,18 @@ button {
     border: solid black;
 }
 
-.jumpy {
-    
+.jumpy a:hover{
+  background-color: white;
+  color: pink;
+  animation-name: slidein;
+  animation-duration: 1s;
+}
+@keyframes slidein {
+  from {
+    margin-left: 5%;
+    width: 2%; 
+  }
+
 }
 
 .boximg {
