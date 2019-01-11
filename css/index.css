@@ -104,6 +104,11 @@ div.container.about-page {
         width: 1000px;
 }
 
+div.container.products-page {
+        margin-left: 150px;
+        width: 1000px;
+}
+
 .line{
 	border: 1px dashed black;
 	    width: 1002px;
@@ -137,6 +142,10 @@ button {
     padding: 10px;
     border-radius: 12%;
     border: solid black;
+}
+
+.jumpy {
+    
 }
 
 .boximg {
