@@ -50,7 +50,7 @@ nav.alpha {
 	text-decoration: none;
 }
 
-img.neon {
+img.splashimg {
     margin-left: 115px;
     margin-right: 115px;
     width: 1100px;
@@ -99,6 +99,51 @@ p {
     margin: 0 auto;
 }
 
+div.container.about-page {
+        margin-left: 150px;
+        width: 1000px;
+}
+
+.line{
+	border: 1px dashed black;
+	    width: 1002px;
+  margin: 50px 0;
+}
+
+.beta {
+    display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: space-around;
+	height: 1100px;
+	margin: 0px 55px 0px 0px;
+	width: 1050px;
+}
+
+.box {
+	margin: 0px 20px 45px 0px;
+	width: 500px;
+	height: 398px;
+}
+.lines{
+	border: 1px dashed black;
+	    width: 499px;
+  margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 12%;
+    border: solid black;
+}
+
+.boximg {
+    width: 499px;
+    margin-bottom: 10px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -139,6 +184,7 @@ p {
     align-items: center;
     justify-content: center;
 }
+
 #one {
     background: teal;
 }
