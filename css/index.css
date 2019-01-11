@@ -50,6 +50,15 @@ nav.alpha {
 	text-decoration: none;
 }
 
+img.neon {
+    margin-left: 115px;
+    margin-right: 115px;
+    width: 1100px;
+    margin-bottom: 50px
+}
+
+}
+
 ol, ul {
 	list-style: none;
 }
